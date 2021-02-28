@@ -2,7 +2,7 @@
 
 This example shows you how to use the [Okta React Library][] and [React Router](https://github.com/ReactTraining/react-router) to login a user to a React application.  The login is achieved through the [PKCE Flow][], where the user is redirected to the Okta-Hosted login page.  After the user authenticates they are redirected back to the application with an ID token and access token.
 
-This example is built with [Create React App][].
+This example is built with [Create React App ][].
 
 ## Prerequisites
 
